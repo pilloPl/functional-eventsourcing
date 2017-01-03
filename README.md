@@ -1,4 +1,4 @@
-# Functional event sourcing, implemention with javaslang.
+# Functional event sourcing, implementation with javaslang.
 
 Simple aggregate created with the help of:
 
@@ -6,3 +6,5 @@ Simple aggregate created with the help of:
 * Functions
 * Pattern Match
 * Left Fold
+
+Based on the work of Greg Young.
