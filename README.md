@@ -2,7 +2,7 @@
 
 Simple aggregate created with the help of:
 
-Try
-Functions
-Pattern Match
-Left Fold
+* Try
+* Functions
+* Pattern Match
+* Left Fold
